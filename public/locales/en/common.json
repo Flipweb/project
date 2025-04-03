@@ -1,0 +1,37 @@
+{
+  "app": {
+    "name": "Kontur",
+    "description": "Client Portal"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "confirm": "Confirm",
+    "copy": "Copy",
+    "logout": "Sign out"
+  },
+  "navigation": {
+    "profile": "Personal Info",
+    "security": "Security",
+    "certificates": "Certificates",
+    "services": "Services",
+    "documents": "Documents",
+    "orders": "Orders"
+  },
+  "errors": {
+    "required": "Required field",
+    "invalid": "Invalid format",
+    "unknown": "An unknown error occurred"
+  },
+  "status": {
+    "loading": "Loading...",
+    "success": "Success",
+    "error": "Error",
+    "pending": "Pending"
+  }
+}

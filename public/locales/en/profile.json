@@ -1,0 +1,45 @@
+{
+  "title": "Personal Information",
+  "fields": {
+    "name": {
+      "label": "What's your name?",
+      "placeholder": "We'll know how to address you"
+    },
+    "phone": {
+      "label": "Phone",
+      "placeholder": "For login and notifications",
+      "error": "Invalid phone number format"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "For login and notifications"
+    }
+  },
+  "certificates": {
+    "title": "Certificates for Kontur login",
+    "add": "Add",
+    "empty": {
+      "title": "Do you have a certificate?",
+      "description": "You can use it to log in to Kontur services"
+    }
+  },
+  "promotion": {
+    "title": "3 Kontur products by subscription",
+    "description": "Connect now, from 1200 rubles per month",
+    "action": "Connect"
+  },
+  "bonus": {
+    "title": "Bonus Program",
+    "description": "Register and receive gifts for using Kontur services",
+    "action": "Learn more"
+  },
+  "referral": {
+    "title": "Referral Program",
+    "description": "Recommend Kontur and receive rewards",
+    "action": "Learn more"
+  },
+  "info": {
+    "title": "All your certificates in one tab",
+    "description": "Now the Certificates tab contains all information about electronic signature certificates and application statuses"
+  }
+}

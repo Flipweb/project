@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "rootDir": ".",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "types": ["node"],
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*"]
+    }
+  },
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifiers": true
+  },
+  "include": ["services/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
